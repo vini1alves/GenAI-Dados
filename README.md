@@ -12,7 +12,7 @@ Localizado em Campinas, São Paulo. Atualmente focado em transformar dados bruto
 ### 1- NotebookLM Financial Guia: Estruturação de Estudo Ativo com IA
 Este repositório contém a documentação de um ecossistema de aprendizagem personalizado criado no NotebookLM. O objetivo do projeto foi transformar fontes brutas de finanças introdutórias em um guia de estudo inteligente, utilizando técnicas de curadoria de conteúdo, engenharia de prompts e pensamento crítico para otimizar a retenção do conhecimento financeiro.
 
-link:[NotebookLM](https://notebooklm.google.com/notebook/92f16aa7-569a-48e5-b51a-248290468d22)
+🔗:[NotebookLM](https://notebooklm.google.com/notebook/92f16aa7-569a-48e5-b51a-248290468d22)
 
 ---
 ### 🚀 Sobre Mim
@@ -65,4 +65,4 @@ Sou estudante de Ciência de Dados com uma base sólida em logística e operaç�
 ---
 
 ### 📊 Estatísticas
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vini1alves&show_icons=true&theme=radical)
+[Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=vini1alves&show_icons=true&theme=radical)
