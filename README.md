@@ -1,54 +1,53 @@
-# GenAI-Dados
-3 projetos propostos pelo bootcamp  Bradesco - GenAI &amp; Dados
-# Olá, eu sou o Vinicius Alves!👋 
+ ###    Bootcamp Bradesco - GenAI & Dados
 
-### 📊 Estudante de Ciência de Dados | Analista de Dados em Formação
-
-Localizado em Campinas, São Paulo. Atualmente focado em transformar dados brutos em informações estratégicas para a tomada de decisão.
-
----
-##  3 projetos propostos pelo bootcamp  Bradesco - GenAI & Dados
----
-### 1- NotebookLM Financial Guia: Estruturação de Estudo Ativo com IA
-Este repositório contém a documentação de um ecossistema de aprendizagem personalizado criado no NotebookLM. O objetivo do projeto foi transformar fontes brutas de finanças introdutórias em um guia de estudo inteligente, utilizando técnicas de curadoria de conteúdo, engenharia de prompts e pensamento crítico para otimizar a retenção do conhecimento financeiro.
-
-🔗:[NotebookLM](https://notebooklm.google.com/notebook/92f16aa7-569a-48e5-b51a-248290468d22)
-
----
-### 🚀 Sobre Mim
-Sou estudante de Ciência de Dados com uma base sólida em logística e operações. Busco minha primeira oportunidade na área de Análise de Dados, onde posso aplicar minhas habilidades técnicas para gerar impacto real e inovação.
-
-- 🌱 Atualmente cursando: **Ciência de Dados (UniFavip Wyden)**.
-- 💡 Foco em: **Estatística, Modelagem Preditiva e Visualização de Dados**.
-- 🛠️ Experiência prévia: Mais de 2 anos atuando em logística e e-commerce, desenvolvendo forte raciocínio analítico e atenção aos detalhes.
-- 📫 Contato: [viniciusnet22@live.com](mailto:viniciusnet22@live.com).
+Este repositório reúne os projetos desenvolvidos durante o Bootcamp Bradesco - GenAI & Dados. O foco das atividades é a aplicação prática de Inteligência Artificial Generativa para otimização de processos, análise de dados e estruturação de conhecimento.
 
 ---
 
-### 🛠 Tecnologias e Ferramentas
+### 🚀 Projetos
 
-| Categoria | Ferramentas|                                    
-| :--- | :--- |
-| **Linguagens** | Python, SQL |
-| **Visualização** | Power BI |
-| **Banco de Dados** | PostgreSQL |
-| **Outros** | Excel, Sistemas Integrados (ERP), Estatística |
-
-<div style="display: inline">
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-</div>
+1. NotebookLM Financial Guia: Estruturação de Estudo Ativo com IA
+Este projeto foca na criação de um ecossistema de aprendizagem personalizado utilizando o NotebookLM (Google). A ideia central foi transcender a leitura passiva, transformando bases de dados e documentos brutos sobre finanças em uma ferramenta de consulta dinâmica.
 
 ---
 
+### Objetivos do Projeto:
 
+Curadoria de Conteúdo: Seleção e filtragem de fontes confiáveis sobre finanças introdutórias.
+
+Aprendizado Ativo: Utilização da IA para gerar resumos, FAQs e insights baseados estritamente nas fontes fornecidas (Grounding).
+
+Engenharia de Prompts: Refinamento de instruções para extrair análises críticas e comparativas sobre o mercado financeiro.
+
+Principais Funcionalidades:
+
+Guia de estudo automatizado com links diretos para as fontes.
+
+Geração de roteiros de revisão (Flashcards e Resumos).
+
+Interface de "conversa com os dados" para tirar dúvidas específicas sobre o material carregado.
 
 ---
 
-### 🎓 Formação e Certificações
-* **CST em Ciência de Dados** – UniFavip Wyden (Conclusão em 2027).
-* **Técnico em Gestão da Cadeia de Suprimentos e Logística** – Senac SP.
-* **Certificações Adicionais:** Introdução à IA Moderna, Computer Hardware Basics e Digital Awareness.
+### 🛠️ Tecnologias e Ferramentas
+
+NotebookLM: Para gestão de conhecimento e estudo ativo.
+
+Prompt Engineering: Técnicas de escrita de comandos para melhores resultados.
+
+Curadoria de Dados: Organização de fontes para evitar alucinações da IA.
+
+---
+
+### 📈 Resultados Obtidos
+
+O uso do NotebookLM permitiu uma redução de X% no tempo de síntese de materiais complexos, permitindo que o foco fosse deslocado da "leitura de busca" para a "análise crítica" das informações financeiras.
+
+---
+
+### 👨‍💻 Autor
+
+Desenvolvido por Vinícius durante o Bootcamp Bradesco em parceria com a DIO/Bradesco.
 
 ---
 
