@@ -1,6 +1,6 @@
  ###    Bootcamp Bradesco - GenAI & Dados
 
-Este repositório reúne os projetos desenvolvidos durante o Bootcamp Bradesco - GenAI & Dados. O foco das atividades é a aplicação prática de Inteligência Artificial Generativa para otimização de processos, análise de dados e estruturação de conhecimento.
+Este repositório reúne os projeto desenvolvidos durante o Bootcamp Bradesco - GenAI & Dados. O foco das atividades é a aplicação prática de Inteligência Artificial Generativa para otimização de processos, análise de dados e estruturação de conhecimento.
 
 ---
 
