@@ -13,18 +13,12 @@ Este projeto foca na criação de um ecossistema de aprendizagem personalizado u
 
 ### Objetivos do Projeto:
 
-Curadoria de Conteúdo: Seleção e filtragem de fontes confiáveis sobre finanças introdutórias.
-
+(1-projeto) Curadoria de Conteúdo: Seleção e filtragem de fontes confiáveis sobre finanças introdutórias.
 Aprendizado Ativo: Utilização da IA para gerar resumos, FAQs e insights baseados estritamente nas fontes fornecidas (Grounding).
-
 Engenharia de Prompts: Refinamento de instruções para extrair análises críticas e comparativas sobre o mercado financeiro.
-
 Principais Funcionalidades:
-
 Guia de estudo automatizado com links diretos para as fontes.
-
 Geração de roteiros de revisão (Flashcards e Resumos).
-
 Interface de "conversa com os dados" para tirar dúvidas específicas sobre o material carregado.
 
 ---
